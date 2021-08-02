@@ -1,7 +1,10 @@
 # home page
 There is a internet speed tester...
-background-image: url( ' https://i.imgur.com/jaBz11B.png ' );
-
+body {
+　background-image:url( ' https://i.imgur.com/jaBz11B.png ' );
+　background-repeat:no-repeat;
+　background-color: black;
+}
 
 <input placeholder="useful?">
 
