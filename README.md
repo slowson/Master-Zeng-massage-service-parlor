@@ -1,5 +1,7 @@
 # home page
 There is a internet speed tester...
+background-image: url( ' https://i.imgur.com/jaBz11B.png ' );
+
 
 <input placeholder="useful?">
 
