@@ -5,5 +5,5 @@ There is a internet speed tester...
 <input type="button" value="病媒蚊防治" onclick="location.href='https://slowson.github.io/slowsonplace/'">
 <input type="button" value="假的" onclick="location.href='404'">
 <text>haha fun
-background-image: url( ' https://i.imgur.com/jaBz11B.png ' );
+<background-image: url( ' https://i.imgur.com/jaBz11B.png ' )>
 <iframe src="https://scratch.mit.edu/projects/546714583/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
