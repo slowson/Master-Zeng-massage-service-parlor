@@ -6,14 +6,14 @@ There is a internet speed tester...
 
 <input placeholder="useful?">
 
-
+<input type="button" value="假的" onclick="location.href='404'">
 <html>
 <head>
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
 </head>
 
 <body>
-<h2 align=center>開發者登入</h2>
+<input type="button" value="登入...">
 <hr>
 
 <script>
@@ -31,10 +31,9 @@ function password() {
 	if (passwd!="cs3431")
 		alert(("別亂猜密碼!!")&&("走開!!"))
 	else
-		myWin=open("found01.htm", "displayWindow", "width=600,height=200,status=yes,toolbar=yes,location=yes,resizable=yes,menubar=yes,scrollbars=yes");
-}
+		
 </script>
-<input type="button" value="假的" onclick="location.href='404'">
+
 
 <hr>
 </body>
