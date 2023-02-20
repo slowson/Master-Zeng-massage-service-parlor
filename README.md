@@ -1,1 +1,1 @@
-<iframe src="https://scratch.mit.edu/projects/806919526/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/806919526/embed" allowtransparency="true" width="1200" height="1000" frameborder="0" scrolling="no" allowfullscreen></iframe>
